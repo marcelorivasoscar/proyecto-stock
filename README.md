@@ -1,2 +1,2 @@
 # proyecto-stock
-#aegunda linea nueva en este archivo
+#segunda linea nueva en este archivo
